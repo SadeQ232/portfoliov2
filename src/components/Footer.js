@@ -56,7 +56,7 @@ const Footer = () => {
     <StyledFooter>
       <StyledContainer>
         <FooterCopy>
-          Hari Bhandari, {new Date().getFullYear()}. Made using Gatsby& React
+          Septian Librianto, {new Date().getFullYear()}. Made using Gatsby& React
           with Love.{" "}
         </FooterCopy>
       </StyledContainer>

@@ -54,7 +54,7 @@ const AboutMe = () => {
         <StyledPic>
           <div className="wrapper">
             <GatsbyImage className={'My Profile'}
-                         alt={'Hari Bhandari -Profile Picture'}
+                         alt={'Septian Librianto -Profile Picture'}
                          image={image}
             />
           </div>
