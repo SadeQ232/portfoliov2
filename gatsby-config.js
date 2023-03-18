@@ -1,12 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Hari Bhandari - Portfolio`,
-    description: `Hari Bhandari is a software developer based in England. He specializes in full stack web development, data science and AI  `,
-    author: `@hari-bhandari`,
-    url: "https://haribhandari.me",
-    siteUrl: "https://haribhandari.me",
+    title: `Septian Librianto - Portfolio`,
+    description: `Septian Librianto is a Google Associate Cloud Engineer Certified As a Devops Engineer Job Role with 2 year of hands-on experience supporting, optimizing, and automating mission-critical deployments in automated services. Leveraged configuration management, CI/CD, and critical DevOps processes. Specialized Build monitoring system infrastructure, System Logs using Prometheus, Promtail, Loki & Grafana.`,
+    author: `@septian.librianto`,
+    url: "https://septianlibrianto.me",
+    siteUrl: "https://septianlibrianto.me",
     image: "/og.png", // Path to your image you placed in the 'static' folder
-    twitterUsername: "@_hari_bhandari",
   },
   plugins: [
    `gatsby-plugin-styled-components`,
@@ -32,7 +31,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Hari-Bhandari-Portfolio`,
+        name: `Septian Librianto-Portfolio`,
         short_name: `portfolio`,
         start_url: `/`,
         background_color: `#663399`,

@@ -2,7 +2,7 @@
   "name": "portfolio-v2",
   "description": "Portfolio made using gatsby",
   "version": "0.1.0",
-  "author": "hari Bhandari <2012bhandari.ha@gmail.com>",
+  "author": "Septian Librianto <septian.librianto@gmail.com>",
   "dependencies": {
     "animejs": "^3.2.1",
     "browser-monads": "^1.0.0",
@@ -46,9 +46,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hari-bhandari/portfoliov2"
+    "url": "https://github.com/SadeQ232/portfoliov2"
   },
   "bugs": {
-    "url": "https://github.com/hari-bhandari/portfoliov2/issues"
+    "url": "https://github.com/SadeQ232/portfoliov2/issues"
   }
 }
