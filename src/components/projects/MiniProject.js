@@ -17,7 +17,7 @@ const MiniProject = ({ node,image}) => {
         target="__blank"
       >
         <GatsbyImage
-                     alt={`Hari Bhandari- ${node.title}`}
+                     alt={`Septian Librianto- ${node.title}`}
                      image={img} className={'gatsby-image-wrapper'}
         />
       </a>

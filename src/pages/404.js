@@ -32,7 +32,7 @@ const NotFoundContainer=styled.div`
 const NotFoundPage = ({ location }) => {
   return (
     <Layout location={location}>
-      <Helmet title="Hari Bhandari-404 Page Not Found"   />
+      <Helmet title="Septian Librianto-404 Page Not Found"   />
       <NotFoundContainer>
             <StyledMainContainer className="fillHeight">
               <StyledTitle>404</StyledTitle>
