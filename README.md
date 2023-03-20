@@ -3,10 +3,10 @@
 </div>
 <h1 align="center">
   Personal Portfolio
-    <h5 align="center">Hari Bhandari</h5>
+    <h5 align="center">Septian Librianto</h5>
 </h1>
-<h2><a href="https://haribhandari.me">Demo</a></h2>
-<img alt="Logo" src="https://haribhandari.me/demo.webp" width="100%" />
+<h2><a href="https://www.septian-librianto.my.id">Demo</a></h2>
+<img alt="Logo" src="https://www.septian-librianto.my.id" width="100%" />
 <h3>
 Tree Structure</h3>
 Strained eyes? There's DarkMode too :p
