@@ -34,20 +34,20 @@ function SEO({ lang,Title }) {
       <meta property="og:type" content="website" />
       <meta property="og:url" content={data.url} />
       <meta property="og:site_name" content={data.title} />
-      <meta property="og:image" content={"http://portfoliov2-septianlibrianto-gmailcom.vercel.app/og.png"} />
+      <meta property="og:image" content={"https://www.septian-librianto.my.id/og.png"} />
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="600" />
       <meta property="og:image:type" content="image/png" />
       <meta itemProp="name" content={data.title} />
       <meta itemProp="description" content={data.description} />
-      <meta itemProp="image" content={"http://portfoliov2-septianlibrianto-gmailcom.vercel.app/og.png"} />
+      <meta itemProp="image" content={"https://www.septian-librianto.my.id/og.png"} />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:url" content={data.siteUrl} />
       <meta name="twitter:site" content={data.author} />
       <meta name="twitter:creator" content={data.author} />
       <meta name="twitter:title" content={data.title} />
       <meta name="twitter:description" content={data.description} />
-      <meta name="twitter:image" content={`"http://portfoliov2-septianlibrianto-gmailcom.vercel.app/og.png"`} />
+      <meta name="twitter:image" content={`"https://www.septian-librianto.my.id/og.png"`} />
       <meta name="twitter:image:alt" content={data.title} />
 
       <script type="application/ld+json">{`
@@ -58,27 +58,27 @@ function SEO({ lang,Title }) {
 		"@type": "ListItem", 
 		"position": 1, 
 		"name": "Septian Librianto",
-		"item": "http://portfoliov2-septianlibrianto-gmailcom.vercel.app"  
+		"item": "https://www.septian-librianto.my.id"  
 	},{
 		"@type": "ListItem", 
 		"position": 2, 
 		"name": "About | Septian Librianto",
-		"item": "http://portfoliov2-septianlibrianto-gmailcom.vercel.app/about"  
+		"item": "https://www.septian-librianto.my.id/about"  
 	},{
 		"@type": "ListItem", 
 		"position": 3, 
 		"name": "Projects | Septian Librianto",
-		"item": "http://portfoliov2-septianlibrianto-gmailcom.vercel.app/projects"  
+		"item": "https://www.septian-librianto.my.id/projects"  
 	},{
 		"@type": "ListItem", 
 		"position": 4, 
 		"name": "Contact | Septian Librianto",
-		"item": "http://portfoliov2-septianlibrianto-gmailcom.vercel.app/contact"  
+		"item": "https://www.septian-librianto.my.id/contact"  
 	},{
 		"@type": "ListItem", 
 		"position": 5, 
 		"name": "Blogs | Septian Librianto",
-		"item": "http://portfoliov2-septianlibrianto-gmailcom.vercel.app/blog"  
+		"item": "https://www.septian-librianto.my.id/blog"  
 	}]
 }
 			`}
