@@ -40,8 +40,8 @@ const SideItemsRight = () => {
   return (
 
     <ItemsContainer>
-      <a href="mailto:2012bhandari.ha@gmail.com">
-        <Email>2012bhandari.ha@gmail.com</Email>
+      <a href="mailto:septian.librianto@gmail.com">
+        <Email>septian.librianto@gmail.com</Email>
       </a>
       <Line />
     </ItemsContainer>
