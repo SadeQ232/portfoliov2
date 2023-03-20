@@ -45,7 +45,7 @@ const MiniProjects = () => {
 
   return (
     <CreativeCodingWrapper>
-      <PageHeader>More Coding Projects</PageHeader>
+      <PageHeader>Licenses & certifications</PageHeader>
 
       <Grid collapseHeight="700px" showAll={showAll}>
         {miniProjects.allUnFeaturedProjectsJson.edges.map(({ node }) => {

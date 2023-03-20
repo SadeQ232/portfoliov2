@@ -38,7 +38,7 @@ const Projects = () => {
   `)
   return (
     <ProjectsWrapper id="projects" style={{ marginBottom: 100 }}>
-      <PageHeader>Side Projects</PageHeader>
+      <PageHeader>Projects</PageHeader>
 
       {projects.allProjectsJson.edges.map(({ node }) => (
         <ProjectTemplate
