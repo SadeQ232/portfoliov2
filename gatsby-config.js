@@ -3,8 +3,8 @@ module.exports = {
     title: `Septian Librianto - Portfolio`,
     description: `Septian Librianto is a Google Associate Cloud Engineer Certified As a Devops Engineer Job Role with 2 year of hands-on experience supporting, optimizing, and automating mission-critical deployments in automated services. Leveraged configuration management, CI/CD, and critical DevOps processes. Specialized Build monitoring system infrastructure, System Logs using Prometheus, Promtail, Loki & Grafana.`,
     author: `@septian.librianto`,
-    url: "https://septianlibrianto.me",
-    siteUrl: "https://septianlibrianto.me",
+    url: "http://portfoliov2-septianlibrianto-gmailcom.vercel.app/",
+    siteUrl: "http://portfoliov2-septianlibrianto-gmailcom.vercel.app/",
     image: "/og.png", // Path to your image you placed in the 'static' folder
   },
   plugins: [
