@@ -1,10 +1,10 @@
 [
   {
-    "title": "MERN Ecommerce Site-Wisecart",
-    "description": "I've created a robust and functional eCommerce site using the MERN stack. The frontend was developed using Next.js and TypeScript, offering a smooth user experience. The website enables users to create, edit and sell products with a fully integrated payment system. The site also features related item suggestions and quick search filters to enhance the shopping experience. Additionally, the product pages are designed to be fast-loading and the site has strong SEO. Hosted on DigitalOcean.The website also includes an admin page, where the user can manage the products, track orders, update delivery progress and carry out various other important tasks efficiently. The admin page is designed to provide the necessary tools and insights to ensure the smooth running of the eCommerce platform.",
-    "demo": "https://www.youtube.com/embed/RZEb9ekVTAI?autoplay=1",
-    "url": "https://thewisecart.com",
-    "github": "https://github.com/hari-bhandari/ecommerce-MERN"
+    "title": "Pinang Connect Application",
+    "description": "Daftarkan Fintech Anda Sebagai Rekanan Kami",
+    "demo": "https://pre-prod-pinang-connect.bankraya.co.id/",
+    "url": "https://pre-prod-pinang-connect.bankraya.co.id",
+    "github": "https://gitlab.com"
   },
   {
     "title": "Blood Bank",
