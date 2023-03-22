@@ -25,7 +25,7 @@ const MiniProject = ({ node,image}) => {
         <span className={'small-project-title'}>{node.title}</span>
         <div>
           <IconButton
-            label={`Live Demo - ${node.title}`}
+            label={`Show Credential - ${node.title}`}
             href={node.demo}
             icon="window-maximize"
           />

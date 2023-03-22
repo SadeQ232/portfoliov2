@@ -20,7 +20,6 @@ const MiniProjects = () => {
             demo
             picture
             title
-            github
           }
         }
       }
