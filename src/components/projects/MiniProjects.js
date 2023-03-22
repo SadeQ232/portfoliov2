@@ -17,7 +17,7 @@ const MiniProjects = () => {
         edges {
           node {
             id
-            demo
+            credential
             picture
             title
           }
