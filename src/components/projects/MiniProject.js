@@ -29,11 +29,11 @@ const MiniProject = ({ node,image}) => {
             href={node.demo}
             icon="window-maximize"
           />
-          <IconButton
+          {/* <IconButton
             label={`Source Code - ${node.title}`}
             href={node.github}
             Icon={"github"}
-          />
+          /> */}
         </div>
       </CardFooter>
     </CCard>
