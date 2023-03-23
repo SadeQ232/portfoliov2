@@ -3,29 +3,25 @@
     "title": "Pinang Connect Application",
     "description": "Pinang Connect is an application to register fintechs as Bank Raya partners. This application consists of 1 backend and 1 frontend. Using node.js programming language. In this project I am a devops engineer. In charge of preparing all infrastructure needs, such as databases. and also create automation cicd deployment to kubernetes (GKE).",
     "demo": "https://pre-prod-pinang-connect.bankraya.co.id",
-    "url": "https://pre-prod-pinang-connect.bankraya.co.id",
-    "github": "https://gitlab.com"
+    "url": "https://pre-prod-pinang-connect.bankraya.co.id"
   },
   {
     "title": "Bank Raya Whistleblowing System",
     "description": "The mechanism for submitting reports on allegations of certain criminal acts occurring within Bank Raya, reported by employees and/or other people in the organization where they work. Whistleblowers are not part of the perpetrators of the reported crimes. This application consists of 1 backend and 1 frontend. Using node.js programming language. In this project I am a devops engineer. In charge of preparing all infrastructure needs, such as databases. and also create automation cicd deployment to kubernetes (GKE).",
     "demo": "https://whistleblowing.bankraya.co.id",
-    "url": "https://whistleblowing.bankraya.co.id",
-    "github": "https://gitlab.com"
+    "url": "https://whistleblowing.bankraya.co.id"
   },
   {
     "title": "SORTING ALGORITHM VISUALISER",
     "description": "Introducing the Sorting Algorithm Visualiser, a dynamic React app designed to illustrate 5 sorting algorithms in a visual manner. This tool was created with the intention of helping students better understand the concept of sorting algorithms, making it easier for them to grasp the techniques involved. With its lightning-fast performance and seamless responsiveness across devices, it's the perfect tool for anyone looking to improve their understanding of sorting algorithms.",
     "demo": "https://sort-visualiser.netlify.app/",
-    "url": "https://sort-visualiser.netlify.app/",
-    "github": "https://github.com/hari-bhandari/Sorting-Visualiser"
+    "url": "https://sort-visualiser.netlify.app/"
   },
 
   {
     "title": "Store My Contacts",
     "description": "Introducing SMC - the ultimate solution for managing your contacts. No more losing important phone numbers, emails, or addresses. With SMC, you can easily keep all your contacts in one centralized location. Designed for ease of use, this application was created with my mum in mind, who was struggling to keep her contacts organized. Built with React, MongoDB, and Node.js (including authentication), SMC provides a secure and user-friendly platform for managing your contacts. Best of all, it's hosted on Heroku and accessible from anywhere, making it the perfect solution for anyone looking to simplify their contact management.",
     "demo": "https://storemycontacts.herokuapp.com/",
-    "url": "https://storemycontacts.herokuapp.com/",
-    "github": "https://github.com/hari-bhandari/contactKeeper"
+    "url": "https://storemycontacts.herokuapp.com/"
   }
 ]

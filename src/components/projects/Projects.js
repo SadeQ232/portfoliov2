@@ -29,7 +29,6 @@ const Projects = () => {
             description
             demo
             title
-            github
             url
           }
         }
@@ -50,11 +49,11 @@ const Projects = () => {
               <Button target="__blank" as="a" href={node.url}>
                 Live Demo
               </Button>
-              <IconButton
+              {/* <IconButton
                 label="View demo on Github"
                 href={node.github}
                 Icon={"github"}
-              />
+              /> */}
             </ProjectLinks>
           }
           preview={
