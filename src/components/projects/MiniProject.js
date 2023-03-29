@@ -13,7 +13,7 @@ const MiniProject = ({ node,image}) => {
         name={node.title}
         aria-label={node.title}
         className="thumbnail-a"
-        href={node.demo}
+        href={node.credential}
         target="__blank"
       >
         <GatsbyImage
@@ -25,15 +25,15 @@ const MiniProject = ({ node,image}) => {
         <span className={'small-project-title'}>{node.title}</span>
         <div>
           <IconButton
-            label={`Live Demo - ${node.title}`}
-            href={node.demo}
+            label={`Show Credential - ${node.title}`}
+            href={node.credential}
             icon="window-maximize"
           />
-          <IconButton
+          {/* <IconButton
             label={`Source Code - ${node.title}`}
             href={node.github}
             Icon={"github"}
-          />
+          /> */}
         </div>
       </CardFooter>
     </CCard>

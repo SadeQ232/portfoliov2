@@ -5,7 +5,6 @@ import { StyledHomeButton } from "./404";
 import mixins from "../styles/mixins";
 import styled from "styled-components";
 import Projects from "../components/projects/Projects";
-import Clones from "../components/projects/Clones";
 import MiniProjects from "../components/projects/MiniProjects";
 
 export default function ProjectsPage() {
@@ -21,9 +20,6 @@ export default function ProjectsPage() {
 
       <StyledMainContainer className="fillHeight">
         <Projects />
-        <div>
-          <Clones />
-        </div>
         <MiniProjects />
         {/*  create a button to go back home*/}
         <StyledHomeButtonContainer>
