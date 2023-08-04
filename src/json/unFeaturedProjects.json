@@ -8,5 +8,15 @@
     "title": "Digital Transformation with Google Cloud",
     "picture": "unFeaturedProjects/Digital Transformation With Google Cloud.png",
     "credential": "https://www.cloudskillsboost.google/public_profiles/30278e4d-3e7a-46a6-bc73-51b3e5c84e65/badges/3159187"
+  },
+  {
+    "title": "Alibaba Cloud Certified Associate Cloud Computing",
+    "picture": "unFeaturedProjects/alibaba.JPG",
+    "credential": "https://xuecdn2.aliyunedu.net/img_5fd18ecb2cc15cc84f4adef0fee6d8e0.jpg"
+  },
+  {
+    "title": "Certified Kubernetes Application Developer (CKAD) Preparation Training",
+    "picture": "unFeaturedProjects/kubenesia.JPG",
+    "credential": "https://certificate.kubenesia.com/"
   }
 ]
