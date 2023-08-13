@@ -1,7 +1,7 @@
 [
   {
     "intro": "Hi, I'm Septian Librianto,",
-    "about": "I'm Google Associate Cloud Engineer Certified As a Devops Engineer Job Role with 2 year of hands-on experience supporting, optimizing, and automating mission-critical deployments in automated services. Leveraged configuration management, CI/CD, and critical DevOps processes.",
+    "about": "Google Associate Cloud Engineer Certified and Alibaba Cloud Certified Professional, also Certified Kubernetes Application Development(not exam yet) As a Devops Engineer Job Role with 1 year of hands-on experience supporting, optimizing, and automating mission-critical deployments to Kubernetes Cluster in automated services. Leveraged configuration management, CI/CD, and critical DevOps processes.",
     "aboutSecond": "Specialized Build monitoring system infrastructure, System Logs using Prometheus, Promtail, Loki & Grafana.",
     "skills": [
       "IT Operation",
@@ -18,12 +18,16 @@
       "Ansible",
       "Docker",
       "Git",
+        "GitOps",
+      "Flux",
       "Kubernetes",
         "Google Kuberbetes Engine(GKE)",
+      "Helm Chart",
       "Windows Server",
       "CI/CD",
         "gitlab-CI",
       "Grafana",
+        "Loki",
       "Prometheus",
       "Zabbix",
       "Google Cloud Platform",
@@ -34,7 +38,9 @@
         "Automating infrastructure on Google Cloud With Terraform",
         "Google Cloud Essentiials",
         "Associate Cloud Engineer",
-        "Digital Transformation with Google Cloud"
+        "Digital Transformation with Google Cloud",
+      "Alibaba Cloud",
+      "Python"
     ]
   }
 ]

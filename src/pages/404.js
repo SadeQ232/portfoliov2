@@ -39,7 +39,6 @@ const NotFoundPage = ({ location }) => {
               <StyledSubtitle>Page Not Found</StyledSubtitle>
               <StyledHomeButton to="/">Go Home</StyledHomeButton>
             </StyledMainContainer>
-        )}
       </NotFoundContainer>
     </Layout>
   )

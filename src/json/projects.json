@@ -17,23 +17,22 @@
     "demo": "https://elearning.bankraya.co.id",
     "url": "https://elearning.bankraya.co.id"
   },
-
   {
-    "title": "Pinang Maksima",
+    "title": "Pinang Prakarsa",
     "description": "Productive Loan Application based on Supply Chain ecosystem for business partners from Fintech / Aggregator / BRI Group Corporations / Partner Companies / E-commerce. I am the devops engineer for this project.",
-    "demo": "https://webview-pinang-maksima-pre-prod.bankraya.co.id",
-    "url": "https://webview-pinang-maksima-pre-prod.bankraya.co.id"
+    "demo": "https://pinang-prakarsa.bankraya.co.id",
+    "url": "https://pinang-prakarsa.bankraya.co.id"
   },
   {
-    "title": "API SDM Mobile",
-    "description": "API for online attendance from the mobile app Jagat Raya.",
-    "demo": "https://api.sdm-mobile.bankraya.co.id",
-    "url": "https://api.sdm-mobile.bankraya.co.id"
+    "title": "Website Bank Raya",
+    "description": "Company Profile Bank Raya Indonesia",
+    "demo": "https://bankraya.co.id",
+    "url": "https://bankraya.co.id"
   },
   {
-    "title": "Pinang Ritel",
-    "description": "Productive Loan Application based on Supply Chain ecosystem for business partners from Fintech / Aggregator / BRI Group Corporations / Partner Companies / E-commerce. I am the devops engineer for this project.",
-    "demo": "https://api.pinang-ritel.bankraya.co.id",
-    "url": "https://api.pinang-ritel.bankraya.co.id"
+    "title": "Lelang Bank Raya",
+    "description": "Website informasi jadwal lelang.",
+    "demo": "https://lelang.bankraya.co.id",
+    "url": "https://lelang.bankraya.co.id"
   }
 ]
